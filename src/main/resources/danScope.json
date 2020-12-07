@@ -1,0 +1,8 @@
+[
+  {
+    "services": [
+      "WS100101_getCitizenIDCardInfo"
+    ],
+    "wsdl": "https://xyp.gov.mn/citizen-1.2.0/ws?WSDL"
+  }
+]
